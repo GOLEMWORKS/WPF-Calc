@@ -15,7 +15,7 @@
         Background="{DynamicResource MaterialDesignPaper}"
         FontFamily="{DynamicResource MaterialDesignFont}">
     <Grid 
-        Background="#ffdadada">
+        Background="#ffdadade">
         <Border 
             MinWidth="400" 
             MaxWidth="500"
